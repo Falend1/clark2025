@@ -1,6 +1,6 @@
 ---
 title: My Blog
-description: Have A Try Then Try Your Best
+description: Have A Try
 pubDate: 2025-02-08
 ---
 # My first time to create a blog

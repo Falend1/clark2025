@@ -1,5 +1,5 @@
 export const siteConfig: SiteConfig = {
-    title: "Welcome To My Blog!",
+    title: "欢迎来到我的博客!!!",
     language: "zh",
     description: "Clark's personal blog. Powered by Astro Blog Theme Blur.",
     keywords: "Clark, blog, personal blog, Astro, Astro Blog Theme Blur",
