@@ -1,12 +1,13 @@
 ---
 title: Blog Messages
-description: 空闲时间编写文章并上传至此
+description: Use my free time to write an article and upload it here
 pubDate: 2025-02-11
 ---
 
-# 归纳一共做的几件事：
+# Here are a few things to do:
 
-## Blog，Gmail，cloudflare，Linkedin，GitHub
-## 于2025/02/11时间段注册完成并开始正式使用
+## Blog,Gmail,cloudflare,Linkedin,GitHub
+## Registration will be completed and officially used during the 2025/02/11 period
 
-### 如有需要可以询问我。联系方式：lendfa3@gmail.com
+### You can ask me if you need to.
+### Contact:lendfa3@gmail.com
