@@ -1,12 +1,12 @@
 export const siteConfig: SiteConfig = {
-    title: "欢迎来到我的博客!!!",
+    title: "Welcome To My Blog!!!",
     language: "zh",
     description: "Clark's personal blog. Powered by Astro Blog Theme Blur.",
     keywords: "Clark, blog, personal blog, Astro, Astro Blog Theme Blur",
     author: "Clark",
     avatar: "/JianShi.png",
     favicon: "/JianShi.png",
-    site: "https://Clark.top",
+    site: "https://clark.xin",
 
     page_size: 10,
 }
@@ -33,7 +33,7 @@ export const socialLinks: SocialLink[] = [
     {
         label: 'GitHub',
         icon: 'mdi-github',
-        url: 'https://github.com/Clark6'
+        url: 'https://github.com/Falend1'
     },
     {
         label: 'Email',
