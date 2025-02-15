@@ -6,6 +6,6 @@ pubDate: 2025-02-12
 
 # Here are some of my thoughts and summaries
 
-## 接下来我会持续更新几篇文章，不定时。
+## 文章更新中......
 
-### 期待自己的更新！
+### 

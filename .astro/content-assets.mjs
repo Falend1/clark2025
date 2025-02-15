@@ -1,1 +1,1 @@
-export default new Map();0
+export default new Map();
