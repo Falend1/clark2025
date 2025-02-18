@@ -15,15 +15,15 @@ export const navBarConfig: NavBarConfig = {
     links: [
         {
             name: 'Projects',
-            url: '/projects'
+            url: '/'
         },
         {
             name: 'Links',
-            url: '/links'
+            url: '/'
         },
         {
-            name: 'About',
-            url: '/about'
+            name: 'My CV in English',
+            url: '/'
         }
     ]
 }

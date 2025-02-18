@@ -4,10 +4,10 @@ description: Use my free time to write an article and upload it here
 pubDate: 2025-01-10
 ---
 
-# Here are a few things to do:
+# <span style="font-weight:bolder">Here are a few things to do:</span>
 
-## Blog,Gmail,cloudflare,Linkedin,GitHub
-## Registration will be completed and officially used during the 2024/12/15 period
+## <span style="font-weight:bolder">Blog,Gmail,cloudflare,Linkedin,GitHub</span>
+## <span style="font-weight:bolder">Registration will be completed and officially used during the 2024/12/15 period</span>
 
-### You can ask me if you need to.
-### Contact:lendfa3@gmail.com
+### <span style="font-weight:bolder">You can ask me if you need to.</span>
+### <span style="font-weight:bolder">Contact:lendfa3@gmail.com</span>
