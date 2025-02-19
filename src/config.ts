@@ -4,8 +4,8 @@ export const siteConfig: SiteConfig = {
     description: "Clark's personal blog. Powered by Astro Blog Theme Blur.",
     keywords: "Clark, blog, personal blog, Astro, Astro Blog Theme Blur",
     author: "Clark",
-    avatar: "/JianShi.png",
-    favicon: "/JianShi.png",
+    avatar: "/save.webp",
+    favicon: "/save.webp",
     site: "https://clark.xin",
 
     page_size: 10,
