@@ -1,5 +1,12 @@
 body {
-    background-color: #f9e0e0; /* 更改背景颜色 */
-    background-image: url('path/to/your/yhf.png'); /* 使用图片作为背景 */
+    background-color: #fdfdfd; /* 更改背景颜色 */
+    background-image: url('path/to/your/11.png'); /* 使用图片作为背景 */
     background-size: cover;
+}
+.flex{
+    background-image: url('path/to/your/');
+    background-size: cover;      /* 覆盖整个屏幕 */
+    background-repeat: no-repeat; /* 不重复 */
+    background-attachment: fixed; /* 固定背景 */
+    opacity : 1;
 }

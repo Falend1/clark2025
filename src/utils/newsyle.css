@@ -1,0 +1,5 @@
+body {
+    background-color: #85cdb5; /* 更改背景颜色 */
+    background-image: url('path/to/your/yhf.png'); /* 使用图片作为背景 */
+    background-size: cover;
+}
