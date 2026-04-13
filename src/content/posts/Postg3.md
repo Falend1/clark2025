@@ -22,4 +22,4 @@ pubDate: 2026-03-24
 # <span style="font-weight:lighter">6.准备材料模拟</span>
 ## <span style="font-size:20px"><span style="font-weight:lighter">确认安装无误后，您可以开始准备材料模拟工作。这通常包括使用前处理软件（如LS-PrePost）建立几何模型、划分网格、定义材料模型（如MAT_001等）以及设置边界条件和载荷。</span></span>
 
-# <b>请注意，具体的安装步骤可能会根据软件版本、操作系统（Windows/Linux）以及发行商（Ansys版本或独立LSTC版本）的不同而略有差异。建议参考您所获取软件的具体安装手册或官方文档进行操作。</b>
+# <b><I>请注意，具体的安装步骤可能会根据软件版本、操作系统（Windows/Linux）以及发行商（Ansys版本或独立LSTC版本）的不同而略有差异。建议参考您所获取软件的具体安装手册或官方文档进行操作。</b></I>
