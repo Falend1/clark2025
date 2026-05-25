@@ -1,11 +1,11 @@
 export const siteConfig: SiteConfig = {
-    title: "You are welcome to visit my blog",
+    title: "Welcome to visit my blog",
     language: "zh",
     description: "Clark's personal blog. Powered by Astro Blog Theme Blur.",
     keywords: "Clark, blog, personal blog, Astro, Astro Blog Theme Blur",
     author: "Clark",
-    avatar: "/save.webp",
-    favicon: "/save.webp",
+    avatar: "/twi.jpg",
+    favicon: "/twi.jpg",
     site: "https://clark.xin",
 
     page_size: 10,
