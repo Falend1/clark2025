@@ -4,29 +4,34 @@
     "links": {
       "type": "object",
       "properties": {
-        "title": {
-          "type": "string"
-        },
-        "url": {
-          "type": "string"
-        },
-        "description": {
-          "type": "string"
-        },
-        "avatar": {
-          "type": "string"
-        },
         "$schema": {
           "type": "string"
         }
       },
-      "required": [
-        "title",
-        "url",
-        "description",
-        "avatar"
-      ],
-      "additionalProperties": false
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "avatar": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "title",
+          "url",
+          "description",
+          "avatar"
+        ],
+        "additionalProperties": false
+      }
     }
   },
   "$schema": "http://json-schema.org/draft-07/schema#"

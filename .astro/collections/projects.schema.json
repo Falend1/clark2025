@@ -4,25 +4,30 @@
     "projects": {
       "type": "object",
       "properties": {
-        "title": {
-          "type": "string"
-        },
-        "repo": {
-          "type": "string"
-        },
-        "description": {
-          "type": "string"
-        },
         "$schema": {
           "type": "string"
         }
       },
-      "required": [
-        "title",
-        "repo",
-        "description"
-      ],
-      "additionalProperties": false
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "repo": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "title",
+          "repo",
+          "description"
+        ],
+        "additionalProperties": false
+      }
     }
   },
   "$schema": "http://json-schema.org/draft-07/schema#"
